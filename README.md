@@ -2,7 +2,6 @@
 - 👀 I’m interested in ..Android App Development
 - 🌱 I’m currently learning java kotlin android studio
 - 📫 How to reach me ...Sundasabro@icloud.com
-
 -😎 I am expert in Java
 
 <!---
