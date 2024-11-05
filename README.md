@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **app development**
 
-- 📫 How to reach me **sundasabro@icloud.com**
+- 📫 How to reach me **sharkabaro09@gmail.com**
 
 - ⚡ Fun fact **I am a great conversationalist**
 
